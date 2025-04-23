@@ -9,7 +9,7 @@ Afin d'utiliser le projet :
 Cloner le repository : 
 
 ```
-git clone https://github.com/MeydeyNc/WIK-DPS-TP01.git
+git clone https://github.com/MeydeyNc/TP-DevOps.git
 ```
 
 N'hésitez pas à inspecter le code afin de vous rassurez quant à son utilité. 
