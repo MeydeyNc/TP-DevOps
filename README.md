@@ -1,4 +1,4 @@
-# WIK-DPS-TP01
+# TP01
 
 Voici une API en Rust pour notre cours de DevOps. 
 Une première pour moi en Rust, très complexe dans sa syntaxe au début. 
